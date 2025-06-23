@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Github, Linkedin, Mail, ExternalLink, Code, Database, BarChart3, Brain } from 'lucide-react';
 import { Button } from '@/components/ui/button';
@@ -145,7 +146,7 @@ const Index = () => {
             Open to opportunities in data engineering, automation, and innovative tech solutions
           </p>
           
-          <div className="flex flex-col sm:flex-row justify-center gap-6">
+          <div className="flex flex-row justify-center gap-6">
             <Button size="lg" asChild className="bg-white text-gray-900 hover:bg-gray-100 transition-all duration-300 transform hover:scale-105">
               <a href="mailto:khalilbouslah@gmail.com" className="flex items-center gap-3">
                 <Mail className="w-5 h-5" />
