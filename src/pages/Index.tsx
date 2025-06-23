@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Github, Linkedin, Mail, ExternalLink, Code, Database, BarChart3, Brain } from 'lucide-react';
 import { Button } from '@/components/ui/button';
@@ -167,7 +166,7 @@ const Index = () => {
       <footer className="py-8 px-6 bg-gray-50 border-t">
         <div className="max-w-6xl mx-auto text-center">
           <p className="text-gray-600">
-            © 2024 Med Khalil Bouslah. Built with React, TypeScript & Tailwind CSS.
+            © 2024 Med Khalil Bouslah.
           </p>
         </div>
       </footer>
